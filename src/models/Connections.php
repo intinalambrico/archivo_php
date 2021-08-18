@@ -10,10 +10,9 @@ class Connections extends PDO{
 		
 		$server	=	'mysql:host=localhost; dbname=internet_pagos';
 		 
-		$password	= '+wq)@ZCV#%Z~';
-		$username	= 'internet_pagos';
-       // $password	= '9C9UAaqKecHRZA79';
-	//	$username	= 'LNWW(345';
+		$password	= '';
+		$username	= '';
+        
 
 		try {
 			
